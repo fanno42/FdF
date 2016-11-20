@@ -3,3 +3,4 @@ Ce projet consiste à créer graphiquement la representation schématique (en �
 
 Le dossier 'maps' contient les fichiers correctement formatés à mettre en paramètre du programme.
 
+![alt tab](http://hpics.li/49b037a)
